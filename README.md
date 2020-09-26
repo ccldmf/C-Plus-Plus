@@ -30,18 +30,5 @@
 <a id="support-sponsor"></a>
 ## 支持赞助
 如果我的内容对您有所帮助，赞助我吧。
-<table>
-  <tbody>
-    <tr>
-      <th align="center" style="height=200 width="200">
-          <img src="https://github.com/ccldmf/Images/blob/master/WeChat.jpg" height="200" width="200" ><br>
-          支付宝
-      </th>
-      <th align="center" style="height=200 width="200">
-          <img src="https://github.com/ccldmf/Images/blob/master/WeChat.jpg" height="200" width="200" ><br>
-          微信
-      </th>
-    </tr>
-  </tbody>
-</table>
+![微信](Images/WeChat.png)
 
