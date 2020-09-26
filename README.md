@@ -30,17 +30,3 @@
 
 
 
-# C-A-A
-C++,data structures and algorithms Study
-
-## Document
-Summary: Study《C++ Primer Plus》code and notes.
-
-## SmallProject
-Write some small project of learn C++.
-
-## SourceCode
-Modules code.
-
-## DataStructuresAndAlgorithms
-Study note and code for data structures and algorithms.
