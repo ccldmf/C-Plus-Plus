@@ -30,7 +30,7 @@
 <a id="support-sponsor"></a>
 ## 支持赞助
 如果我的内容对您有所帮助，赞助我吧。
-![WeChatCollectionQRCode](Images/WeChatCollectionQRCode.png)
+![WeChatCollectionQRCode](Images/WeChatCollectionQRCode.jpg)
 
 
 
