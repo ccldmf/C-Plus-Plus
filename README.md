@@ -34,7 +34,7 @@
   <tbody>
     <tr>
       <th align="center" style="height=200 width="200">
-          <img src="https://github.com/ccldmf/C-Plus-Plus/blob/master/Images/WeChat.png" height="200" width="200" ><br>
+          <img src="https://github.com/ccldmf/Images/blob/master/WeChat.png" height="200" width="200" ><br>
           微信
       </th>
     </tr>
