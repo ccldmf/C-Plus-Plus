@@ -25,7 +25,7 @@
 * 书籍
 * 贡献者
 * [支持赞助](#support-sponsor)
-* License
+* [License](#license)
 
 <a id="support-sponsor"></a>
 ## 支持赞助
@@ -45,4 +45,8 @@
     </tr>
   </tbody>
 </table>
+
+<a id="license"></a>
+## License
+本仓库遵循[MIT License](https://github.com/ccldmf/C-Plus-Plus/blob/master/LICENSE)协议，转载请注明出处，不得用于商业目的。
 
