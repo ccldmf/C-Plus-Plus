@@ -24,7 +24,7 @@
 * 设计模式
 * 书籍
 * 贡献者
-* 支持赞助
+* [支持赞助](#support-sponsor)
 * License
 
 <a id="support-sponsor"></a>
