@@ -1,10 +1,10 @@
- # C++_8-1-String类
+ ### String类
 
  string类是模板类：
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**typedef basic_string <char> string;**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**typedef basic_string &lt;char&gt; string;**
 
-使用时包含头文件：<string>
+使用时包含头文件：#include &lt;string&gt;
 
 **特点：**
 
