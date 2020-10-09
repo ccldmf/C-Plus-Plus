@@ -1,4 +1,4 @@
- # C++_8-3-Vector-deque-双向链表使用
+ # Vector-deque-双向链表使用
 
  **vector：**
 
