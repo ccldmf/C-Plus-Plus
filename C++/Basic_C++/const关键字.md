@@ -1,8 +1,3 @@
----
-title: "Const关键字"
-tags: ""
----
-
 const用法
 
 1.  定义常量，define也可以用来定义常量，但是const定义可以检查常量的类型。
