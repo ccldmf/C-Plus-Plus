@@ -1,10 +1,3 @@
-<div align="left">
-简体中文 
-|
-<a href="https://github.com/ccldmf/C-Plus-Plus/blob/master/README_en.md">English</a>
-</div> 
-<br>
-
 <b><details><summary>💡 关于</summary></b>
 本仓库主要是介绍C/C+++技术方向的一些基础知识总结，包括C/C++编程语言，数据结构，算法，网络编程等，期望对大家学习有所帮助。
   
