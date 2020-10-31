@@ -1,12 +1,10 @@
- ### String类
-
- string类是模板类：
+* string类模板类
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**typedef basic_string &lt;char&gt; string;**
 
 使用时包含头文件：#include &lt;string&gt;
 
-**特点：**
+* 特点：
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）string对象的长度用成员函数length()读取。
 
