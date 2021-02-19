@@ -1,6 +1,6 @@
 * vector
 
-  * Vector实现一维数组：
+  * Vector实现一维数组
 
   ```
   int main()
@@ -25,7 +25,7 @@
   }
   ```
 
-  * Vector实现二维数组：
+  * Vector实现二维数组
 
   ```
   int main()
